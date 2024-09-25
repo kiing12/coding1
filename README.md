@@ -1,2 +1,2 @@
 # coding1
-##coding1##
+Durante a aula nossa aprendizagem iniciamos a criação e personalização do um perfil no Github, criamos alguns repositórios de códigos, criar um branch e a como acessar a área do codespace, la é um espaço seguro onde podemos praticar habilidades de coding. Também criamos um repositório contendo um README usando meu perfil pessoal, possibilitando assim o compartilhamento de dados com outros usuários e estudantes, sendo usado como forma de network para um futuro profissional da área. Usei a aplicação online "Profile Readme Generator", que me permite através de um único comando, a criação de um readme detalhado sobre minha conta.
